@@ -1,4 +1,4 @@
-# Beacon Detector
+# Beacon Detector..
 
 
 BeaconDetector is an application that detects and displays information about iBeacons in the surrounding area. iBeacons are small, low-power devices that transmit a Bluetooth Low Energy (BLE) signal that can be picked up by nearby devices such as smartphones. The BeaconDetector application takes advantage of this capability to detect iBeacons and display information such as their UUID, Major and Minor values, and signal strength.
